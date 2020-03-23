@@ -19,9 +19,20 @@ title: Search
 		font-size: 100%;
 		border: none;
 	}
+	
 	#results-container {
 		margin: .5rem 0;
 	}
+
+	ol li {
+		list-style-type: decimal;
+		list-style-position: outside; 
+		margin-left: 25px;
+    }
+
+	a {
+        text-decoration: none;
+    }
 </style>
 
 <!-- Html Elements for Search -->

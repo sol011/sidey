@@ -2,6 +2,11 @@
 layout: page
 title: About
 ---
+<style>
+    ul {
+        margin-left: 16px;
+    }
+</style>
 
 Sidey is a simple and minimalistic jekyll blogging theme.
 
@@ -23,6 +28,4 @@ Sidey is a simple and minimalistic jekyll blogging theme.
 - Ultra fast (Only ~5kb of CSS)
 - Sidebar navigation
 
-### Screenshot
 
-![Screenshot](screenshot.png)
